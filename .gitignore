@@ -5,4 +5,6 @@ crawling/daum/total_img
 crawling/laftel/total_img
 colab/thumbnail_classify_keras/img_to_nparray
 total_img/
-
+.DS_Store
+crawling/.DS_Store
+crawling/naver/.DS_Store

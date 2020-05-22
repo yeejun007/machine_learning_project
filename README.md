@@ -10,11 +10,13 @@
 
 ---
 
+
 ### 주제
 #### bare minimum
 - 딥러닝 모델을 이용하여 웹툰 작가이름 맞추기
 #### advanced
 - 비슷한 그림체의 웹툰 찾아내기
+
 
 
 ### 진행
@@ -23,7 +25,6 @@
 
 
 
----
 ## model layer
  <img width="1075" alt="스크린샷 2020-05-22 오후 1 19 36" src="https://user-images.githubusercontent.com/46306443/82630884-0042df80-9c2f-11ea-9a1f-d54eb7c0e9e4.png">
  

@@ -1,11 +1,9 @@
 # machine_learning_project
 
 #### 팀 구성
-
 송이준, 이진주, 조대선
 
 #### 기간
-
 2020.04.23 ~ 2020.05.30
 
 ---
@@ -18,6 +16,9 @@
 - 비슷한 그림체의 웹툰 찾아내기
 
 
+### 기술 스택
+- python, tensorflow(keras)
+
 
 ### 진행
 1. 이미지 수집 (네이버, 다음의 연재중인 웹툰)
@@ -25,7 +26,7 @@
 
 
 
-## model layer
+### model layer
  <img width="1075" alt="스크린샷 2020-05-22 오후 1 19 36" src="https://user-images.githubusercontent.com/46306443/82630884-0042df80-9c2f-11ea-9a1f-d54eb7c0e9e4.png">
  
  

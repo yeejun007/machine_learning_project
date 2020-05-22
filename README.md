@@ -21,6 +21,8 @@ machine_learning_project
 ### 기술 스택
 - python, tensorflow(keras)
 
+#
+
 
 ### 진행
 1. 이미지 수집 (네이버, 다음의 연재중인 웹툰)

@@ -45,7 +45,7 @@ machine_learning_project
 
 ### issue solving
 1. 그림 작가마다 그림체가 다를것이라고 가정하고, 그림 작가 이름을 라벨로 사용한다. (이미지는 웹툰 각 회차의 썸네일 이미지를 사용함)
-<img width="256" alt="스크린샷 2020-05-28 오후 2 17 44" src="https://user-images.githubusercontent.com/46306443/83101847-35977380-a0ee-11ea-80f0-6269198119b9.png">
+<img width="356" alt="스크린샷 2020-05-28 오후 2 17 44" src="https://user-images.githubusercontent.com/46306443/83101847-35977380-a0ee-11ea-80f0-6269198119b9.png">
 
 
 

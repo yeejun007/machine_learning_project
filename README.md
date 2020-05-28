@@ -68,6 +68,11 @@ machine_learning_project
 
 ### result
 
+테스트로 사용할 이미지를 하나 input data로 넣으면, model이 그 input data가 각 라벨에 속할 확률을 리턴해준다.
+model이 가장 유사하다고 하는 작가명에 해당하는 웹툰 top10을 선별해서 보여주기.
+
+<img width="960" alt="스크린샷 2020-05-28 오후 2 58 56" src="https://user-images.githubusercontent.com/46306443/83104459-c45abf00-a0f3-11ea-8441-b1454c608132.png">
+
 
 
 

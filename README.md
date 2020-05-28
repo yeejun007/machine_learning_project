@@ -57,7 +57,7 @@ machine_learning_project
 
 4. 연재 회차가 200회 이상인 웹툰들만 선별한 뒤에, 이미지사이즈를 35*21로 줄여서 학습 데이터로 사용한다.(이미지의 해상도 조절)
    
-   <img width="800" alt="스크린샷 2020-05-28 오후 2 46 07" src="https://user-images.githubusercontent.com/46306443/83103601-fb2fd580-a0f1-11ea-8619-d96746b1a53f.png">
+   <img width="600" alt="스크린샷 2020-05-28 오후 2 46 07" src="https://user-images.githubusercontent.com/46306443/83103601-fb2fd580-a0f1-11ea-8619-d96746b1a53f.png">
 
 5. dropout의 파라미터를 크게 적용시킨 layer를 추가해서 training accuracy를 낮춘다. validation accuracy도 조금 낮아지지만, train과 validation의 격차 해소를 통해 좀더 모델을 일반화 할수 있게 됨으로써 얻게 되는 이득이 더 크다고 판단함
 

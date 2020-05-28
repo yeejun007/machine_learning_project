@@ -32,7 +32,7 @@ machine_learning_project
 
 
 ### model
- <img width="1075" alt="스크린샷 2020-05-22 오후 1 19 36" src="https://user-images.githubusercontent.com/46306443/82630884-0042df80-9c2f-11ea-9a1f-d54eb7c0e9e4.png">
+ ![image](https://user-images.githubusercontent.com/46306443/83099196-a5563000-a0e7-11ea-9868-f2811163d3e1.png)
  
 
 ### Details

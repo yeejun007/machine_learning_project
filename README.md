@@ -25,8 +25,6 @@ machine_learning_project
 3. colab GPU를 사용하여, tensorflow(keras)로 모델링 진행
 
 #
-<br/>
-<br/>
 
 ## `Project Info`
 ### model description

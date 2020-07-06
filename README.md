@@ -22,7 +22,7 @@ machine_learning_project
 ### Procedure
 1. 이미지 수집 (네이버, 다음의 연재중인 웹툰)
 2. 네이버 웹툰 중, 썸네일 이미지 200개 이상인 웹툰들 선별 (총 33개)
-3. colab GPU를 사용하여, keras로 모델링 진행
+3. colab GPU를 사용하여, tensorflow(keras)로 모델링 진행
 
 #
 <br/>

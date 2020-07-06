@@ -28,7 +28,7 @@ machine_learning_project
 
 ## `Project Info`
 
-model description
+### model description
 <br/>
 
  ![image](https://user-images.githubusercontent.com/46306443/83099196-a5563000-a0e7-11ea-9868-f2811163d3e1.png)

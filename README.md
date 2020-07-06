@@ -10,17 +10,14 @@ machine_learning_project
 
 # 
 <br/>
-<br/>
 
 ### Goals
 비슷한 그림체의 웹툰 찾아내기
-
 
 ### Technical Skills
 - python, tensorflow(keras), google colab
 
 #
-
 
 ### Procedure
 1. 이미지 수집 (네이버, 다음의 연재중인 웹툰)

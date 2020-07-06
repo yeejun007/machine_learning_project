@@ -26,7 +26,7 @@ machine_learning_project
 <br/>
 <br/>
 
-## `Project Info`
+## `Project Details`
 
 ### model description
 <br/>
